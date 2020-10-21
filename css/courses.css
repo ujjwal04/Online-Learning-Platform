@@ -1,0 +1,57 @@
+.jumbotron {
+  background-color: #2c3e50;
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.my-4 {
+  border: 1px solid white;
+}
+
+.video {
+  width: 60%;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.jumbotron p i {
+  color: yellow;
+}
+
+.description-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.description-section {
+  margin-top: 70px;
+}
+
+.enroll {
+  display: block;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.feedback-section {
+  margin-top: 50px;
+}
+
+.user-review {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 7px 6px 9px -4px rgba(0, 0, 0, 0.75);
+  padding: 20px;
+}
+
+.profile-pic {
+  text-align: center;
+}
+
+.btn-enroll {
+  display: block;
+  margin: 0 auto;
+  width: 20%;
+  font-size: 20px;
+}

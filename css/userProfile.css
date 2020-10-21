@@ -1,0 +1,10 @@
+.profile-pic img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+.username {
+  display: block;
+  margin: auto 7px;
+}

@@ -1,0 +1,8 @@
+.questionNumber {
+  border-bottom: 3px solid #2ecc71;
+}
+
+.btn {
+  display: block;
+  margin: 15px auto;
+}

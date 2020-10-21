@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.search-icon {
+  border-radius: 50px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.search-box {
+  border-right: none;
+  border-radius: 50px;
+}
+
+.search-container {
+  width: 70%;
+}
+
+.courses-section h1 {
+  font-size: 40px;
+}
+
+.courses {
+  margin-top: 45px;
+}
+
+.courses-section h1:after {
+  content: "";
+  height: 3px;
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: #e67e22;
+  display: block;
+}
+
+.card-text {
+  min-height: 192px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-link i {
+  line-height: 27px;
+}
+
+.nav-link {
+  font-size: 19px;
+}
+
+.card-title {
+  min-height: 72px;
+}
